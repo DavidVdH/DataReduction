@@ -44,6 +44,8 @@ public:
 
 public slots:
     void browseFiles();
+    void updateGraph();
+    void playGraph();
 };
 
 #endif // MAINWINDOW_H
